@@ -2,4 +2,4 @@
 
 Android N EasterEgg Neko Atsume Launcher
 
-![neko atusme](./arts/neko_astume.gif)
+![neko atusme](./arts/neko_atsume.gif)
